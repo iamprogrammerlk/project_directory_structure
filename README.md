@@ -2,7 +2,7 @@
 
 The layout of folders and file structure for a systematic approach to managing software projects.
 
-# Example Directory Layout
+# Example Workspace Directory Layout
 
 ```
 Workspace
