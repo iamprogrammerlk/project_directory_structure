@@ -54,6 +54,11 @@ Workspace
     |   |- ...
     |
     |- Users
+        |- Aliases
+        |   |- ALIAS_USER_NAME_01
+        |   |- ALIAS_USER_NAME_02
+        |   |- ...
+        |
         |- USER_NAME_01
         |- USER_NAME_02
         |- ...
